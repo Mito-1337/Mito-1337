@@ -1,8 +1,6 @@
 ## Hi there, my name is Tim
 
-### 🔭 I’m currently studiyng in ITMO university
-
-- It's situated in Saint Petersburg
+### 🔭 I’m currently studiyng in Saint Petersburg
 
 ### I’m currently learning programming. 
 
@@ -21,8 +19,11 @@
 - Wanna know: 
 
  
+
+| &nbsp; | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![GO](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![GO](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
 
 ### More about me
 - 👯 I’m open for collaboratoins with **Eevrtbody**!
