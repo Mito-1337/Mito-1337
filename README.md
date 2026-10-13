@@ -32,7 +32,7 @@
 1. 👯 I’m open for collaboratoins with **Eevrtbody**!
     - I really wanna try myself in some **Game Jam** or other **Programming Competitions**☺️
 
-2. 📫 How to reach me:<br>
+2. 📫 How to reach me:<br> <br>
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 
