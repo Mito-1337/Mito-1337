@@ -19,15 +19,16 @@
 ### *Future plans:* 💅
 - Continue education in ITMO and try to stay here
 - Stay in touch with my new classmates
-- Wanna know ts ->  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Wanna know: 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 - 👯 I’m open for collaboratoins with **Eevrtbody**!
     - I really wanna try myself in some **Game Jam** ☺️
 
 - 📫 How to reach me: 
-1. [![Telegram](https://shields.io)](https://t.me) -  @Pirowo4k
+1. [![Telegram](https://shields.io)](https://t.me) @Pirowo4k
 2. 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/she/it
+- ⚡ Fun fact: 
 
