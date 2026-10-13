@@ -9,6 +9,7 @@
 2. A week ago I began doing some thigs on `GitHub` and here is some of my achievements 😄
     - Last week my team and I completed special project togrther within 2 hours
     - My favourite command is:
+
 ```console log
     git commit -m "<any message>"
 ```
@@ -16,8 +17,7 @@
 ### Future plans: 💅
 - Continue education in ITMO and try to stay here
 - Stay in touch with my new classmates
-- Wanna know: 
-
+- Wanna know in future: 
  
 
 | &nbsp; | &nbsp; | &nbsp; |
@@ -26,10 +26,10 @@
 
 
 ### More about me
-- 👯 I’m open for collaboratoins with **Eevrtbody**!
+1. 👯 I’m open for collaboratoins with **Eevrtbody**!
     - I really wanna try myself in some **Game Jam** or other **Programming Competitions**☺️
 
-- 📫 How to reach me: 
+2. 📫 How to reach me: 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 
