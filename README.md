@@ -14,6 +14,8 @@
     git commit -m "<any message>"
 ```
 
+---
+
 ### Future plans: 💅
 - Continue education in ITMO and try to stay here
 - Stay in touch with my new classmates
@@ -24,12 +26,14 @@
 | --- | --- | --- |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![GO](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
+---
 
 ### More about me
 1. 👯 I’m open for collaboratoins with **Eevrtbody**!
     - I really wanna try myself in some **Game Jam** or other **Programming Competitions**☺️
 
 2. 📫 How to reach me: 
+<br>
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 
