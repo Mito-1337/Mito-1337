@@ -20,7 +20,7 @@
 - Stay in touch with my new classmates
 - Wanna know: 
 
-![Uniity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)
+|![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)|![GO](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)|
 
 
 
