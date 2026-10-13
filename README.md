@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there, my name is Tim
 
 ### 🔭 I’m currently studiyng in ITMO university
 
@@ -20,7 +20,7 @@
 - Stay in touch with my new classmates
 - Wanna know: 
 
-[![Uniity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)]
+![Uniity](https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity)
 
 
 
@@ -31,6 +31,6 @@
 - 📫 How to reach me: 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-- 😄 Pronouns: he:|:she:|:it
+- 😄 Pronouns: |he:|:she:|:it|
 - ⚡ Fun fact: 
 
