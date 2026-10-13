@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**Mito-1337/Mito-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### 🔭 I’m currently studiyng in ITMO university
 
 - It's situated in Saint Petersburg
@@ -12,7 +7,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning programming. 
 
-#### *First achievements:*
+#### *First achievements:* 👶
 - I met up with new functions for `sorting` 
 - A week ago I began doing some thigs on `GitHub` and here is some of my achievements 😄
     - Last week my team and I completed special project togrther within 2 hours
@@ -21,19 +16,18 @@ Here are some ideas to get you started:
     git commit -m "<any message>"
 ```
 
-
-
-### *Future plans:*
+### *Future plans:* 💅
 - Continue education in ITMO and try to stay here
 - Stay in touch with my new classmates
+- Wanna know ts ->  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=E5capada&theme=radical)
+- 👯 I’m open for collaboratoins with **Eevrtbody**!
+    - I really wanna try myself in some **Game Jam** ☺️
 
-
-- 👯 I’m looking to collaborate with my friends 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+1. [![Telegram](https://shields.io)](https://t.me) -  @Pirowo4k
+2. 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
