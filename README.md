@@ -20,17 +20,17 @@
 - Stay in touch with my new classmates
 - Wanna know: 
 
-|![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)|![GO](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)|
 
-
+| Name | Badge 
+| --- | --- | 
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | :![GO](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white): | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  |
 
 ### More about me
 - 👯 I’m open for collaboratoins with **Eevrtbody**!
-    - I really wanna try myself in some **Game Jam** ☺️
+    - I really wanna try myself in some **Game Jam** or other **Programming Competitions**☺️
 
 - 📫 How to reach me: 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-- 😄 Pronouns: |he:|:she:|:it|
-- ⚡ Fun fact: 
+
 
