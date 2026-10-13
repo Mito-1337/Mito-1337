@@ -32,7 +32,7 @@
 - 👯 I’m open for collaboratoins with **Eevrtbody**!
     - I really wanna try myself in some **Game Jam** ☺️
 
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
 | Telegram | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) | `![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)` |
 
 - 😄 Pronouns: he/she/it
