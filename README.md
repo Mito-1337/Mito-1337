@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - A week ago I began doing some thigs on `GitHub` and here is some of my achievements 😄
     - Last week my team and I completed special project togrther within 2 hours
     - My favourite command is:
-'''console log
+```console log
     git commit -m "<any message>"
-'''
+```
 
 
 
