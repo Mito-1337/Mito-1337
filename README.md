@@ -17,7 +17,7 @@
 
 ##### Some other things
 
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)](https://leetcode.com/YuuciNakamura/)
+[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/YuuchiNakamura/)
 
 ### Future plans: 💅
 - Continue education in ITMO and try to stay here
@@ -33,8 +33,8 @@
     - I really wanna try myself in some **Game Jam** ☺️
 
 - 📫 How to reach me: 
-1. [![Telegram](https://shields.io)](https://t.me) @Pirowo4k
-2. 
+| Telegram | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) | `![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)` |
+
 - 😄 Pronouns: he/she/it
 - ⚡ Fun fact: 
 
