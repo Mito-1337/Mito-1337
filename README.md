@@ -5,10 +5,10 @@
 ### I’m currently learning programming. 
 
 #### First achievements: 👶
-1. I met up with new functions for `sorting` 
-2. A week ago I began doing some thigs on `GitHub` and here is some of my achievements 😄
+1. I met up with new functions for *sorting* 
+2. A week ago I began doing some thigs on `GitHub` and here is some of my **achievements** 😄
     - Last week my team and I completed special project togrther within 2 hours
-    - My favourite command is:
+    - My *favourite* command is:
 
 ```console log
     git commit -m "<any message>"
@@ -17,9 +17,9 @@
 ---
 
 ### Future plans: 💅
-- Continue education in ITMO and try to stay here
-- Stay in touch with my new classmates
-- Wanna know in future: 
+- Continue education in *ITMO* and try to **stay** here
+- To be in touch with my new classmates
+- Study: 
  
 
 | &nbsp; | &nbsp; | &nbsp; |
@@ -29,7 +29,7 @@
 ---
 
 ### More about me
-1. 👯 I’m open for collaboratoins with **Eevrtbody**!
+1. 👯 I’m open for *collaboratoins* with **Eevrtbody**!
     - I really wanna try myself in some **Game Jam** or other **Programming Competitions**☺️
 
 2. 📫 How to reach me:<br> <br>
